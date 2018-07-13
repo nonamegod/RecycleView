@@ -1,2 +1,4 @@
 # RecycleView
-Use Retrofit2+Rxjava2 to download a file from a special url.
+Use Retrofit to send a network request.
+Use Glide to load images and show in ImageView.
+Show the data and image in RecycleView.
